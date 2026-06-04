@@ -1,0 +1,6 @@
+{
+  "name": "Mwingi TTC",
+  "description": "Official mobile app for Mwingi Teachers Training College, providing information on courses, admissions, and college news.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
